@@ -10,20 +10,13 @@
 | 4 | The greatest increase in profits | 
 | 5 | the greatest decrease in profits | 
 
-#### The final output for this file looks like this (in table form) 
-
-| Financial Analysis | Values | 
-| ------------------ | ------ | 
-| Total Months | 86 | 
-| Total | $38382578 | 
-| Average Change | $-2315.12 | 
-| Greatest Increase in Profits | Feb 2012 ($1926159) | 
-| Greatest Decrease in Profits | Sep 2012 ($-2196167)|
-
+#### With the help from: Stackoverflow, W3Schools, TutorialSpoint, GeekdsforGeeks and Edward Rees, I was able to read & write a csv file. 
 
 
 
 # Credits/Sources: 
 - https://www.w3schools.com/python/ref_string_strip.asp  
 - https://www.edwardrees.info
-- https://www.tutorialspoint.com/python/dictionary_items.htm
+- https://www.tutorialspoint.com/python/dictionary_items.htm 
+- https://www.geeksforgeeks.org/writing-csv-files-in-python/ 
+- https://stackoverflow.com/questions/10373247/how-do-i-write-a-python-dictionary-to-a-csv-file
