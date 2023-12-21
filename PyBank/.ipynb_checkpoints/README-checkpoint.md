@@ -1,7 +1,5 @@
 # Main.ipynb: P&L Analysis 
-#### The P&L Analysis was written to find the following. I used a range of resources online and also hired a python tutor to help work through it to explain some 
-#### of the fundamental concepts, such as understanding how to use dictionary keys and values appropriately, to reading the file. Additional sources that I used were: 
-#### W3 schools and tutorialspoint.com 
+#### The P&L Analysis was written to find the following. I used a range of resources online and also hired a python tutor to help work through it to explain some of the fundamental concepts, such as understanding how to use dictionary keys and values appropriately, to reading the file and final support on writing the file as csv. 
 | Goal no. |Goal        |  
 | -------- | ---------- |
 | 1 | Finding the total number of months in the data set| 
